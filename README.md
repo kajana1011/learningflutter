@@ -42,7 +42,7 @@ flutter run
 
 Contributions and suggestions are welcome! Open an issue or submit a pull request with improvements.
 
-**Becoming a collaborator:** To request collaborator access, please send your GitHub username via WhatsApp: [Send username on WhatsApp](https://wa.me/255769349613).
+**Becoming a collaborator:** To request collaborator access, please send your GitHub username via WhatsApp: [revocajana](https://wa.me/255769349613).
 
 ## 📄 License
 
@@ -51,3 +51,5 @@ This repository is provided for learning purposes. Check individual files for li
 ---
 
 Happy building! 💡
+
+https://github.com/kajana1011/learningflutter
